@@ -1,0 +1,22 @@
+[
+    {
+        "title": "Apples",
+        "description": "A fruit with a round shape and a red or green skin."
+    },
+    {
+        "title": "Birds",
+        "description": "Warm-blooded egg-laying vertebrates characterized by feathers and forelimbs modified as wings."
+    },
+    {
+        "title": "Cats",
+        "description": "A small carnivorous mammal with fur and retractable claws."
+    },
+    {
+        "title": "Dogs",
+        "description": "A domesticated carnivorous mammal with a distinctive bark and keen sense of smell."
+    },
+    {
+        "title": "Elephants",
+        "description": "The largest living land animal, characterized by its long trunk and tusks."
+    }
+]
